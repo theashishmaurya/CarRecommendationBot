@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "maruti-swift-vxi",
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "VXi",
+    "price_lakh": 7.19,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 24.8,
+    "engine_cc": 1197,
+    "seating": 5,
+    "boot_space_l": 268,
+    "ground_clearance_mm": 163,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "solo"],
+    "pros": [
+      "Class-leading fuel efficiency at 24.8 kmpl",
+      "Peppy and fun-to-drive character",
+      "Widespread service network across India"
+    ],
+    "cons": [
+      "Boot space is on the smaller side",
+      "Rear seat comfort could be better"
+    ],
+    "tagline": "The original hot hatch that still rules Indian streets.",
+    "image_placeholder": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
+  },
+  {
+    "id": "maruti-baleno-delta",
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Delta",
+    "price_lakh": 6.61,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 22.35,
+    "engine_cc": 1197,
+    "seating": 5,
+    "boot_space_l": 318,
+    "ground_clearance_mm": 170,
+    "safety_stars": 2,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "family"],
+    "pros": [
+      "Spacious premium cabin for the segment",
+      "Large 318L boot is best-in-class",
+      "Smooth ride quality on varied roads"
+    ],
+    "cons": [
+      "No 6-airbag option on base trims",
+      "Suspension tuning feels slightly soft on highways"
+    ],
+    "tagline": "More space, more premium, more Baleno.",
+    "image_placeholder": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
+  },
+  {
+    "id": "hyundai-i20-sportz",
+    "make": "Hyundai",
+    "model": "i20",
+    "variant": "Sportz",
+    "price_lakh": 9.08,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 20.35,
+    "engine_cc": 1197,
+    "seating": 5,
+    "boot_space_l": 311,
+    "ground_clearance_mm": 165,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "sporty", "daily_commute", "premium"],
+    "pros": [
+      "Feature-loaded with sunroof and wireless charging",
+      "Sharp sporty styling that stands out",
+      "Refined and smooth engine performance"
+    ],
+    "cons": [
+      "Priced slightly higher than direct rivals",
+      "Touchscreen can lag occasionally"
+    ],
+    "tagline": "The hatchback that dares to be different.",
+    "image_placeholder": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)"
+  },
+  {
+    "id": "tata-punch-adventure",
+    "make": "Tata",
+    "model": "Punch",
+    "variant": "Adventure",
+    "price_lakh": 7.99,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 18.82,
+    "engine_cc": 1199,
+    "seating": 5,
+    "boot_space_l": 366,
+    "ground_clearance_mm": 187,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "adventure", "budget_friendly", "daily_commute"],
+    "pros": [
+      "5-star Global NCAP safety rating",
+      "Highest ground clearance in the segment at 187mm",
+      "SUV-inspired stance with micro-SUV styling"
+    ],
+    "cons": [
+      "Turbo variant costs significantly more",
+      "Rear legroom is limited for adults"
+    ],
+    "tagline": "Micro-SUV heart in a hatchback body.",
+    "image_placeholder": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)"
+  },
+  {
+    "id": "tata-altroz-xz",
+    "make": "Tata",
+    "model": "Altroz",
+    "variant": "XZ",
+    "price_lakh": 9.79,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 19.67,
+    "engine_cc": 1199,
+    "seating": 5,
+    "boot_space_l": 345,
+    "ground_clearance_mm": 165,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "premium", "daily_commute", "eco_friendly"],
+    "pros": [
+      "5-star Global NCAP crash test rating",
+      "Premium interior quality rivals sedans",
+      "Stable and confidence-inspiring ride dynamics"
+    ],
+    "cons": [
+      "No automatic gearbox option",
+      "Turbo petrol variant is pricey"
+    ],
+    "tagline": "The safest hatchback you can buy in India today.",
+    "image_placeholder": "linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%)"
+  },
+  {
+    "id": "maruti-wagonr-vxi",
+    "make": "Maruti Suzuki",
+    "model": "WagonR",
+    "variant": "VXi",
+    "price_lakh": 6.42,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 24.43,
+    "engine_cc": 998,
+    "seating": 5,
+    "boot_space_l": 341,
+    "ground_clearance_mm": 165,
+    "safety_stars": 2,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "family"],
+    "pros": [
+      "Excellent fuel efficiency for city driving",
+      "Tall-boy design offers impressive headroom",
+      "Easy to maneuver in tight city traffic"
+    ],
+    "cons": [
+      "Styling is purely utilitarian, not sporty",
+      "Highway stability could be better"
+    ],
+    "tagline": "India's most practical family hatchback, decade after decade.",
+    "image_placeholder": "linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)"
+  },
+  {
+    "id": "hyundai-grand-i10-nios-sportz",
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "variant": "Sportz",
+    "price_lakh": 7.68,
+    "body_type": "hatchback",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 20.7,
+    "engine_cc": 1197,
+    "seating": 5,
+    "boot_space_l": 260,
+    "ground_clearance_mm": 155,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "solo"],
+    "pros": [
+      "Comfortable ride quality on city roads",
+      "Feature-rich infotainment for the price",
+      "Smooth and refined petrol engine"
+    ],
+    "cons": [
+      "Boot space is the smallest in the segment",
+      "Ground clearance is lower than rivals"
+    ],
+    "tagline": "City smarts wrapped in a compact, cheerful package.",
+    "image_placeholder": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)"
+  },
+  {
+    "id": "tata-nexon-xz-plus",
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "XZ+ (S)",
+    "price_lakh": 14.49,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 17.01,
+    "engine_cc": 1199,
+    "seating": 5,
+    "boot_space_l": 382,
+    "ground_clearance_mm": 208,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "highway", "adventure", "daily_commute", "family"],
+    "pros": [
+      "5-star Global NCAP safety rating — safest in class",
+      "High 208mm ground clearance handles bad roads effortlessly",
+      "Punchy turbo petrol engine with good performance"
+    ],
+    "cons": [
+      "Cabin plastics feel average at this price point",
+      "Turbo petrol NVH could be better on highways"
+    ],
+    "tagline": "Toughest compact SUV with a five-star safety shield.",
+    "image_placeholder": "linear-gradient(135deg, #f77062 0%, #fe5196 100%)"
+  },
+  {
+    "id": "maruti-brezza-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXi",
+    "price_lakh": 13.98,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 19.89,
+    "engine_cc": 1462,
+    "seating": 5,
+    "boot_space_l": 328,
+    "ground_clearance_mm": 198,
+    "safety_stars": 4,
+    "use_case_tags": ["city", "daily_commute", "family", "budget_friendly"],
+    "pros": [
+      "Best-in-class fuel efficiency at nearly 20 kmpl",
+      "HUD display and panoramic sunroof at this price",
+      "Strong resale value and low running costs"
+    ],
+    "cons": [
+      "Boot space is smaller than some rivals",
+      "No diesel engine option"
+    ],
+    "tagline": "Smart SUV that keeps your wallet happy too.",
+    "image_placeholder": "linear-gradient(135deg, #30cfd0 0%, #330867 100%)"
+  },
+  {
+    "id": "hyundai-venue-sx",
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "SX",
+    "price_lakh": 12.36,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 18.15,
+    "engine_cc": 998,
+    "seating": 5,
+    "boot_space_l": 350,
+    "ground_clearance_mm": 195,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "daily_commute", "sporty", "premium"],
+    "pros": [
+      "Connected car technology with BlueLink",
+      "Sporty turbo engine with punchy performance",
+      "Premium feature list including wireless Android Auto"
+    ],
+    "cons": [
+      "Rear seat comfort not ideal for long trips",
+      "Road noise intrusion at high speeds"
+    ],
+    "tagline": "Connected, compact, and confidently sporty.",
+    "image_placeholder": "linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%)"
+  },
+  {
+    "id": "kia-sonet-htx",
+    "make": "Kia",
+    "model": "Sonet",
+    "variant": "HTX",
+    "price_lakh": 13.49,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "manual",
+    "mileage_kmpl": 24.1,
+    "engine_cc": 1493,
+    "seating": 5,
+    "boot_space_l": 392,
+    "ground_clearance_mm": 205,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "highway", "daily_commute", "family"],
+    "pros": [
+      "Exceptional diesel fuel efficiency at 24.1 kmpl",
+      "Largest boot space in the compact SUV segment",
+      "Premium Bose audio system available"
+    ],
+    "cons": [
+      "Diesel clatter at idle is audible",
+      "Slightly firm ride on bad roads"
+    ],
+    "tagline": "The compact SUV that goes further on every tank.",
+    "image_placeholder": "linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%)"
+  },
+  {
+    "id": "nissan-magnite-xv",
+    "make": "Nissan",
+    "model": "Magnite",
+    "variant": "XV Premium",
+    "price_lakh": 9.99,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 20.0,
+    "engine_cc": 999,
+    "seating": 5,
+    "boot_space_l": 336,
+    "ground_clearance_mm": 205,
+    "safety_stars": 1,
+    "use_case_tags": ["city", "budget_friendly", "daily_commute"],
+    "pros": [
+      "Most affordable compact SUV under 10 lakh",
+      "360-degree camera at this price is remarkable",
+      "Good ride height and road presence"
+    ],
+    "cons": [
+      "Very poor 1-star NCAP safety rating",
+      "Turbo engine feels strained on highways"
+    ],
+    "tagline": "Big SUV vibes without the big price tag.",
+    "image_placeholder": "linear-gradient(135deg, #fd7043 0%, #ff8a65 100%)"
+  },
+  {
+    "id": "renault-kiger-rxz",
+    "make": "Renault",
+    "model": "Kiger",
+    "variant": "RXZ",
+    "price_lakh": 11.23,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "amt",
+    "mileage_kmpl": 19.4,
+    "engine_cc": 999,
+    "seating": 5,
+    "boot_space_l": 405,
+    "ground_clearance_mm": 205,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "budget_friendly", "daily_commute", "weekend_trips"],
+    "pros": [
+      "Largest boot space in the compact SUV class at 405L",
+      "Turbo CVT combination is smooth and efficient",
+      "French styling with a bold panoramic sunroof"
+    ],
+    "cons": [
+      "Brand service network not as widespread as rivals",
+      "Rear legroom is tight for taller passengers"
+    ],
+    "tagline": "Stylish, spacious, and surprisingly spirited.",
+    "image_placeholder": "linear-gradient(135deg, #fddb92 0%, #d1fdff 100%)"
+  },
+  {
+    "id": "honda-wrv-sv",
+    "make": "Honda",
+    "model": "WR-V",
+    "variant": "SV",
+    "price_lakh": 11.99,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 16.5,
+    "engine_cc": 1199,
+    "seating": 5,
+    "boot_space_l": 363,
+    "ground_clearance_mm": 188,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "family", "daily_commute", "premium"],
+    "pros": [
+      "Refined Honda engine with low NVH",
+      "Spacious cabin with excellent rear seat comfort",
+      "Strong Honda brand reliability and resale value"
+    ],
+    "cons": [
+      "Lacks some connected features found in rivals",
+      "No diesel engine option anymore"
+    ],
+    "tagline": "Honda reliability meets compact SUV versatility.",
+    "image_placeholder": "linear-gradient(135deg, #e96c8a 0%, #fcb045 100%)"
+  },
+  {
+    "id": "mahindra-xuv300-w8",
+    "make": "Mahindra",
+    "model": "XUV300",
+    "variant": "W8",
+    "price_lakh": 13.99,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1197,
+    "seating": 5,
+    "boot_space_l": 257,
+    "ground_clearance_mm": 180,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "safety", "daily_commute", "premium"],
+    "pros": [
+      "5-star Global NCAP rating with 7 airbags standard",
+      "Sporty turbo petrol engine with strong torque",
+      "Best-in-class safety features at every trim"
+    ],
+    "cons": [
+      "Smallest boot space in the class at 257L",
+      "No rear AC vents on lower variants"
+    ],
+    "tagline": "The safest compact SUV, period.",
+    "image_placeholder": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)"
+  },
+  {
+    "id": "hyundai-creta-sx",
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX (O)",
+    "price_lakh": 18.76,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.8,
+    "engine_cc": 1497,
+    "seating": 5,
+    "boot_space_l": 433,
+    "ground_clearance_mm": 190,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "highway", "family", "premium", "weekend_trips"],
+    "pros": [
+      "Panoramic sunroof and ADAS Level 2 safety suite",
+      "Premium twin-screen cockpit with immersive display",
+      "Well-balanced ride comfort for city and highway"
+    ],
+    "cons": [
+      "Petrol automatic fuel efficiency could be better",
+      "Waiting periods can be long due to high demand"
+    ],
+    "tagline": "The mid-size SUV benchmark that started a revolution.",
+    "image_placeholder": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)"
+  },
+  {
+    "id": "kia-seltos-htx-plus",
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "HTX+",
+    "price_lakh": 17.49,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.5,
+    "engine_cc": 1497,
+    "seating": 5,
+    "boot_space_l": 433,
+    "ground_clearance_mm": 190,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "highway", "premium", "weekend_trips", "sporty"],
+    "pros": [
+      "Premium Bose 8-speaker sound system",
+      "Dual panoramic sunroof on top trims",
+      "Crisp and responsive DCT automatic gearbox"
+    ],
+    "cons": [
+      "DCT gearbox can be jerky in slow traffic",
+      "Slightly firm suspension on broken roads"
+    ],
+    "tagline": "Korean premium meets Indian SUV ambition.",
+    "image_placeholder": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
+  },
+  {
+    "id": "volkswagen-taigun-topline",
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "variant": "Topline",
+    "price_lakh": 17.99,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.3,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 385,
+    "ground_clearance_mm": 188,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "premium", "sporty", "weekend_trips"],
+    "pros": [
+      "5-star Euro NCAP safety with 6 airbags standard",
+      "German build quality with solid body panels",
+      "Engaging DSG gearbox with sporty character"
+    ],
+    "cons": [
+      "Higher service costs than Japanese rivals",
+      "Touchscreen interface not the most intuitive"
+    ],
+    "tagline": "German engineering, Indian roads, zero compromises.",
+    "image_placeholder": "linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%)"
+  },
+  {
+    "id": "skoda-kushaq-style",
+    "make": "Skoda",
+    "model": "Kushaq",
+    "variant": "Style",
+    "price_lakh": 18.39,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.0,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 385,
+    "ground_clearance_mm": 188,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "premium", "sporty", "executive"],
+    "pros": [
+      "Czech design ethos with premium interior craftsmanship",
+      "Excellent high-speed stability and handling",
+      "5-star safety rating with robust MQB-A0-IN platform"
+    ],
+    "cons": [
+      "Service costs are higher than mass-market brands",
+      "Fewer dealerships compared to Hyundai or Tata"
+    ],
+    "tagline": "The understated European choice on Indian roads.",
+    "image_placeholder": "linear-gradient(135deg, #614385 0%, #516395 100%)"
+  },
+  {
+    "id": "mg-hector-sharp",
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Sharp",
+    "price_lakh": 19.99,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "manual",
+    "mileage_kmpl": 15.8,
+    "engine_cc": 1451,
+    "seating": 5,
+    "boot_space_l": 587,
+    "ground_clearance_mm": 200,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "family", "premium", "highway"],
+    "pros": [
+      "Massive 14-inch portrait touchscreen feels futuristic",
+      "Largest boot space in the mid-SUV segment at 587L",
+      "Spacious and airy cabin with panoramic sunroof"
+    ],
+    "cons": [
+      "Turbo petrol CVT combo lacks punchiness",
+      "Infotainment can feel laggy occasionally"
+    ],
+    "tagline": "Internet SUV with a screen that steals every show.",
+    "image_placeholder": "linear-gradient(135deg, #f6d365 0%, #fda085 100%)"
+  },
+  {
+    "id": "mahindra-xuv400-ec-pro",
+    "make": "Mahindra",
+    "model": "XUV400",
+    "variant": "EC Pro",
+    "price_lakh": 15.49,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 378,
+    "ground_clearance_mm": 201,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "eco_friendly", "daily_commute", "premium"],
+    "pros": [
+      "456km ARAI range on a single charge",
+      "5-star Global NCAP rating for outstanding safety",
+      "Peppy electric motor with instant torque delivery"
+    ],
+    "cons": [
+      "Charging infrastructure still developing in smaller cities",
+      "Boot space slightly compromised by battery packaging"
+    ],
+    "tagline": "Mahindra's electric warrior ready to take on the future.",
+    "image_placeholder": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)"
+  },
+  {
+    "id": "honda-elevate-zx",
+    "make": "Honda",
+    "model": "Elevate",
+    "variant": "ZX CVT",
+    "price_lakh": 19.49,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 15.3,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 458,
+    "ground_clearance_mm": 220,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "highway", "family", "premium"],
+    "pros": [
+      "Best-in-class 220mm ground clearance handles anything",
+      "Refined 1.5L petrol engine with smooth CVT",
+      "Spacious boot at 458L beats most mid-SUVs"
+    ],
+    "cons": [
+      "No diesel or turbo petrol option",
+      "Rear seat headroom could be more generous"
+    ],
+    "tagline": "Elevate your everyday with Honda's most capable SUV.",
+    "image_placeholder": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)"
+  },
+  {
+    "id": "toyota-hyryder-v-hybrid",
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "V Hybrid",
+    "price_lakh": 20.15,
+    "body_type": "suv",
+    "fuel_type": "hybrid",
+    "transmission": "automatic",
+    "mileage_kmpl": 27.97,
+    "engine_cc": 1490,
+    "seating": 5,
+    "boot_space_l": 373,
+    "ground_clearance_mm": 200,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "eco_friendly", "highway", "premium", "daily_commute"],
+    "pros": [
+      "Industry-best 27.97 kmpl hybrid efficiency",
+      "Self-charging hybrid needs no plug-in infrastructure",
+      "Toyota reliability with legendary long-term ownership costs"
+    ],
+    "cons": [
+      "Premium price over comparable non-hybrid rivals",
+      "Boot space slightly smaller due to hybrid battery"
+    ],
+    "tagline": "Drive green without changing how you live.",
+    "image_placeholder": "linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%)"
+  },
+  {
+    "id": "mahindra-xuv700-ax7",
+    "make": "Mahindra",
+    "model": "XUV700",
+    "variant": "AX7 L",
+    "price_lakh": 25.49,
+    "body_type": "suv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 14.41,
+    "engine_cc": 1997,
+    "seating": 7,
+    "boot_space_l": 810,
+    "ground_clearance_mm": 200,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "family", "premium", "weekend_trips", "adventure"],
+    "pros": [
+      "5-star Global NCAP safety with ADAS Level 2",
+      "Massive 810L boot with all 3 rows up",
+      "Powerful 200PS petrol engine with DSG gearbox"
+    ],
+    "cons": [
+      "Waiting periods have historically been very long",
+      "Third-row legroom is tight for adults on long trips"
+    ],
+    "tagline": "The most value-packed 7-seater SUV India has ever seen.",
+    "image_placeholder": "linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%)"
+  },
+  {
+    "id": "tata-harrier-xz-plus",
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "XZ+ Dark",
+    "price_lakh": 24.49,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.35,
+    "engine_cc": 1956,
+    "seating": 5,
+    "boot_space_l": 425,
+    "ground_clearance_mm": 205,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "premium", "adventure", "weekend_trips"],
+    "pros": [
+      "Stunning bold design that commands attention everywhere",
+      "5-star Global NCAP safety rating",
+      "ADAS suite with 10 safety assist features"
+    ],
+    "cons": [
+      "Only 5-seater, no 7-seat option unlike Safari",
+      "Diesel-only lineup limits buyer choice"
+    ],
+    "tagline": "Bold, safe, and utterly impossible to ignore.",
+    "image_placeholder": "linear-gradient(135deg, #2d3436 0%, #636e72 100%)"
+  },
+  {
+    "id": "tata-safari-xz-plus",
+    "make": "Tata",
+    "model": "Safari",
+    "variant": "XZ+ Dark",
+    "price_lakh": 26.99,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 16.3,
+    "engine_cc": 1956,
+    "seating": 7,
+    "boot_space_l": 447,
+    "ground_clearance_mm": 205,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "family", "adventure", "premium", "weekend_trips"],
+    "pros": [
+      "7-seat capability with a genuinely usable third row",
+      "5-star safety and full ADAS suite",
+      "Iconic Safari nameplate with modern tech"
+    ],
+    "cons": [
+      "Third-row access and comfort is average",
+      "Fuel efficiency of 16.3 kmpl for a diesel is reasonable but not great"
+    ],
+    "tagline": "The Safari legend reborn for modern Indian families.",
+    "image_placeholder": "linear-gradient(135deg, #c94b4b 0%, #4b134f 100%)"
+  },
+  {
+    "id": "mahindra-scorpio-n-z8l",
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "variant": "Z8 L",
+    "price_lakh": 24.49,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 15.2,
+    "engine_cc": 2184,
+    "seating": 7,
+    "boot_space_l": 696,
+    "ground_clearance_mm": 200,
+    "safety_stars": 5,
+    "use_case_tags": ["off_road", "adventure", "highway", "family", "premium"],
+    "pros": [
+      "5-star NCAP rating with proper body-on-frame SUV capability",
+      "Powerful 175PS 2.2L mHawk diesel engine",
+      "Massive 696L boot with best-in-class torque"
+    ],
+    "cons": [
+      "Body-on-frame ride quality can be bouncy in city",
+      "Steering is not as precise as monocoque rivals"
+    ],
+    "tagline": "The original Indian SUV, now more dangerous than ever.",
+    "image_placeholder": "linear-gradient(135deg, #373b44 0%, #4286f4 100%)"
+  },
+  {
+    "id": "toyota-fortuner-legender",
+    "make": "Toyota",
+    "model": "Fortuner",
+    "variant": "Legender 4x4",
+    "price_lakh": 46.39,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 14.07,
+    "engine_cc": 2755,
+    "seating": 7,
+    "boot_space_l": 650,
+    "ground_clearance_mm": 225,
+    "safety_stars": 5,
+    "use_case_tags": ["off_road", "highway", "adventure", "premium", "executive"],
+    "pros": [
+      "Unmatched brand prestige and resale value retention",
+      "225mm ground clearance with proven 4x4 capability",
+      "Extremely reliable with low long-term ownership costs"
+    ],
+    "cons": [
+      "Very high price for what is relatively aging tech",
+      "Cabin feels less premium than European rivals at this price"
+    ],
+    "tagline": "The prestige SUV that never loses its crown.",
+    "image_placeholder": "linear-gradient(135deg, #b8860b 0%, #daa520 50%, #ffd700 100%)"
+  },
+  {
+    "id": "jeep-meridian-overland",
+    "make": "Jeep",
+    "model": "Meridian",
+    "variant": "Overland 4x4",
+    "price_lakh": 36.95,
+    "body_type": "suv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 14.0,
+    "engine_cc": 1956,
+    "seating": 7,
+    "boot_space_l": 632,
+    "ground_clearance_mm": 212,
+    "safety_stars": 5,
+    "use_case_tags": ["off_road", "highway", "adventure", "premium", "executive"],
+    "pros": [
+      "Authentic Jeep Trail Rated 4x4 off-road capability",
+      "Premium interior with segment-leading refinement",
+      "ADAS suite with 70+ safety and driver assist features"
+    ],
+    "cons": [
+      "Expensive maintenance costs",
+      "Limited dealership network compared to Toyota"
+    ],
+    "tagline": "Where Jeep legend meets premium 7-seat family touring.",
+    "image_placeholder": "linear-gradient(135deg, #2980b9 0%, #2c3e50 100%)"
+  },
+  {
+    "id": "honda-city-zx",
+    "make": "Honda",
+    "model": "City",
+    "variant": "ZX CVT",
+    "price_lakh": 15.99,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 18.0,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 506,
+    "ground_clearance_mm": 165,
+    "safety_stars": 2,
+    "use_case_tags": ["city", "highway", "executive", "premium", "daily_commute"],
+    "pros": [
+      "Largest boot space among Indian sedans at 506L",
+      "Refined 1.5L engine with smooth CVT",
+      "Premium dual-screen cockpit with connected features"
+    ],
+    "cons": [
+      "Only 2-star safety rating is disappointing",
+      "No sporty variant for driving enthusiasts"
+    ],
+    "tagline": "The gold standard of Indian sedans, redefined.",
+    "image_placeholder": "linear-gradient(135deg, #e0c3fc 0%, #8ec5fc 100%)"
+  },
+  {
+    "id": "hyundai-verna-sx",
+    "make": "Hyundai",
+    "model": "Verna",
+    "variant": "SX (O) Turbo",
+    "price_lakh": 17.39,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 20.6,
+    "engine_cc": 998,
+    "seating": 5,
+    "boot_space_l": 528,
+    "ground_clearance_mm": 170,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "highway", "sporty", "premium", "executive"],
+    "pros": [
+      "Best-in-segment 528L boot space",
+      "Turbo petrol DCT is quick and responsive",
+      "ADAS Level 2 with 19 safety features"
+    ],
+    "cons": [
+      "Turbo engine can be twitchy in low-speed traffic",
+      "Premium pricing over the City"
+    ],
+    "tagline": "The sporty sedan that refuses to be boring.",
+    "image_placeholder": "linear-gradient(135deg, #0052d4 0%, #4364f7 50%, #6fb1fc 100%)"
+  },
+  {
+    "id": "skoda-slavia-style",
+    "make": "Skoda",
+    "model": "Slavia",
+    "variant": "Style 1.5 TSI",
+    "price_lakh": 17.99,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 18.7,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 521,
+    "ground_clearance_mm": 179,
+    "safety_stars": 3,
+    "use_case_tags": ["highway", "sporty", "premium", "executive"],
+    "pros": [
+      "Most engaging drive in the segment with 150PS",
+      "European build quality that feels a class above",
+      "521L boot matches or beats all sedan rivals"
+    ],
+    "cons": [
+      "Higher running costs than Japanese alternatives",
+      "DSG gearbox needs careful usage in traffic"
+    ],
+    "tagline": "The driver's sedan for those who know the difference.",
+    "image_placeholder": "linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)"
+  },
+  {
+    "id": "volkswagen-virtus-gt",
+    "make": "Volkswagen",
+    "model": "Virtus",
+    "variant": "GT 1.5 TSI",
+    "price_lakh": 17.49,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 19.4,
+    "engine_cc": 1498,
+    "seating": 5,
+    "boot_space_l": 521,
+    "ground_clearance_mm": 179,
+    "safety_stars": 5,
+    "use_case_tags": ["highway", "sporty", "premium", "executive"],
+    "pros": [
+      "5-star Global NCAP — safest sedan in India",
+      "Sporty GT spec with 150PS and paddle shifters",
+      "Exceptional highway cruising capability"
+    ],
+    "cons": [
+      "Service intervals and costs are higher than Japanese brands",
+      "Infotainment user interface needs improvement"
+    ],
+    "tagline": "German engineering with a sporty Indian soul.",
+    "image_placeholder": "linear-gradient(135deg, #4b6cb7 0%, #182848 100%)"
+  },
+  {
+    "id": "maruti-ciaz-alpha",
+    "make": "Maruti Suzuki",
+    "model": "Ciaz",
+    "variant": "Alpha",
+    "price_lakh": 11.99,
+    "body_type": "sedan",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 20.65,
+    "engine_cc": 1462,
+    "seating": 5,
+    "boot_space_l": 510,
+    "ground_clearance_mm": 160,
+    "safety_stars": 2,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "executive"],
+    "pros": [
+      "Most fuel-efficient sedan in its class at 20.65 kmpl",
+      "Spacious cabin with premium-feeling leatherette",
+      "Excellent value for money with low running costs"
+    ],
+    "cons": [
+      "Dated design compared to newer rivals",
+      "No turbo option, naturally aspirated engine feels slow"
+    ],
+    "tagline": "The sensible sedan that never lets you down.",
+    "image_placeholder": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)"
+  },
+  {
+    "id": "maruti-ertiga-zxi",
+    "make": "Maruti Suzuki",
+    "model": "Ertiga",
+    "variant": "ZXi Plus",
+    "price_lakh": 13.49,
+    "body_type": "mpv",
+    "fuel_type": "petrol",
+    "transmission": "automatic",
+    "mileage_kmpl": 19.34,
+    "engine_cc": 1462,
+    "seating": 7,
+    "boot_space_l": 209,
+    "ground_clearance_mm": 180,
+    "safety_stars": 3,
+    "use_case_tags": ["family", "daily_commute", "budget_friendly", "city"],
+    "pros": [
+      "Most affordable 7-seater automatic in India",
+      "Excellent 19.34 kmpl efficiency for a family MPV",
+      "Comfortable third row that adults can actually use"
+    ],
+    "cons": [
+      "Boot space with all seats up is minimal at 209L",
+      "No diesel option after discontinuation"
+    ],
+    "tagline": "Seven smiles per tank — India's family favourite.",
+    "image_placeholder": "linear-gradient(135deg, #f9d423 0%, #ff4e50 100%)"
+  },
+  {
+    "id": "kia-carens-prestige",
+    "make": "Kia",
+    "model": "Carens",
+    "variant": "Prestige Plus",
+    "price_lakh": 18.99,
+    "body_type": "mpv",
+    "fuel_type": "diesel",
+    "transmission": "automatic",
+    "mileage_kmpl": 19.8,
+    "engine_cc": 1493,
+    "seating": 7,
+    "boot_space_l": 193,
+    "ground_clearance_mm": 195,
+    "safety_stars": 3,
+    "use_case_tags": ["family", "highway", "premium", "weekend_trips"],
+    "pros": [
+      "Premium cabin quality with ventilated front seats",
+      "6-speed automatic is refined and responsive",
+      "Best-in-class driving dynamics for an MPV"
+    ],
+    "cons": [
+      "Boot space when all 7 seats occupied is tight",
+      "Third-row ingress is a bit awkward for older passengers"
+    ],
+    "tagline": "The MPV that drives like an SUV and feels like a premium car.",
+    "image_placeholder": "linear-gradient(135deg, #5f2c82 0%, #49a09d 100%)"
+  },
+  {
+    "id": "toyota-innova-crysta-gx",
+    "make": "Toyota",
+    "model": "Innova Crysta",
+    "variant": "GX",
+    "price_lakh": 19.99,
+    "body_type": "mpv",
+    "fuel_type": "diesel",
+    "transmission": "manual",
+    "mileage_kmpl": 15.1,
+    "engine_cc": 2393,
+    "seating": 7,
+    "boot_space_l": 300,
+    "ground_clearance_mm": 178,
+    "safety_stars": 3,
+    "use_case_tags": ["family", "highway", "executive", "premium", "weekend_trips"],
+    "pros": [
+      "Legendary Toyota reliability with best-in-class residuals",
+      "Diesel engine with outstanding long-distance torque",
+      "Preferred cab-aggregator and family tourer for 15+ years"
+    ],
+    "cons": [
+      "Dated interior technology vs newer rivals",
+      "Body-on-frame means ride isn't as car-like"
+    ],
+    "tagline": "The MPV that became a national institution.",
+    "image_placeholder": "linear-gradient(135deg, #d4a843 0%, #8b6914 100%)"
+  },
+  {
+    "id": "mahindra-marazzo-m8",
+    "make": "Mahindra",
+    "model": "Marazzo",
+    "variant": "M8",
+    "price_lakh": 15.99,
+    "body_type": "mpv",
+    "fuel_type": "diesel",
+    "transmission": "manual",
+    "mileage_kmpl": 17.0,
+    "engine_cc": 1497,
+    "seating": 7,
+    "boot_space_l": 205,
+    "ground_clearance_mm": 185,
+    "safety_stars": 3,
+    "use_case_tags": ["family", "highway", "budget_friendly", "daily_commute"],
+    "pros": [
+      "Shark-inspired design that looks unique among MPVs",
+      "Comfortable suspension tuned for Indian roads",
+      "Spacious second-row captain seats with recline"
+    ],
+    "cons": [
+      "Mahindra after-sales inconsistency in some cities",
+      "No petrol or automatic option available"
+    ],
+    "tagline": "The MPV that dares to look different.",
+    "image_placeholder": "linear-gradient(135deg, #2b5876 0%, #4e4376 100%)"
+  },
+  {
+    "id": "tata-nexon-ev-max",
+    "make": "Tata",
+    "model": "Nexon EV",
+    "variant": "Max LR",
+    "price_lakh": 19.49,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 382,
+    "ground_clearance_mm": 208,
+    "safety_stars": 5,
+    "use_case_tags": ["city", "eco_friendly", "premium", "daily_commute", "highway"],
+    "pros": [
+      "453km ARAI-claimed range tackles range anxiety effectively",
+      "5-star Global NCAP safety rating",
+      "V2L capability lets you power appliances on the go"
+    ],
+    "cons": [
+      "Real-world range in heavy traffic can be 15-20% lower",
+      "DC fast charging network still sparse in Tier 2 cities"
+    ],
+    "tagline": "India's most trusted electric SUV with zero range fear.",
+    "image_placeholder": "linear-gradient(135deg, #00b09b 0%, #96c93d 100%)"
+  },
+  {
+    "id": "tata-tiago-ev-xz-plus",
+    "make": "Tata",
+    "model": "Tiago EV",
+    "variant": "XZ+ Long Range",
+    "price_lakh": 11.49,
+    "body_type": "hatchback",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 242,
+    "ground_clearance_mm": 165,
+    "safety_stars": 4,
+    "use_case_tags": ["city", "eco_friendly", "budget_friendly", "daily_commute"],
+    "pros": [
+      "Most affordable long-range EV in India under 12 lakh",
+      "315km range perfectly suits city daily commute needs",
+      "Low running cost of roughly ₹1/km makes financial sense"
+    ],
+    "cons": [
+      "Boot space is reduced vs petrol Tiago",
+      "Highway speeds significantly reduce range"
+    ],
+    "tagline": "India's most affordable electric car that makes EV sense.",
+    "image_placeholder": "linear-gradient(135deg, #a8ff78 0%, #78ffd6 100%)"
+  },
+  {
+    "id": "mg-zs-ev-excite",
+    "make": "MG",
+    "model": "ZS EV",
+    "variant": "Excite Pro",
+    "price_lakh": 18.98,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 448,
+    "ground_clearance_mm": 177,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "eco_friendly", "premium", "daily_commute"],
+    "pros": [
+      "Proven EV platform with 461km ARAI-rated range",
+      "Over-the-air software updates keep features current",
+      "Spacious 448L boot and premium interior feel"
+    ],
+    "cons": [
+      "Charging time with AC charger is lengthy at 8.5 hours",
+      "MG service network smaller than Tata or Hyundai"
+    ],
+    "tagline": "The connected EV SUV that keeps getting smarter.",
+    "image_placeholder": "linear-gradient(135deg, #56ccf2 0%, #2f80ed 100%)"
+  },
+  {
+    "id": "hyundai-ioniq5-platinum",
+    "make": "Hyundai",
+    "model": "Ioniq 5",
+    "variant": "Platinum AWD",
+    "price_lakh": 46.05,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 527,
+    "ground_clearance_mm": 160,
+    "safety_stars": 5,
+    "use_case_tags": ["premium", "eco_friendly", "highway", "sporty", "executive"],
+    "pros": [
+      "Ultra-fast 800V charging — 10% to 80% in 18 minutes",
+      "Futuristic neo-retro design unlike anything else on road",
+      "Dual-motor AWD delivers 320PS and 605Nm of torque"
+    ],
+    "cons": [
+      "Premium price puts it in luxury car territory",
+      "Charging network for 800V CCS2 is very limited in India"
+    ],
+    "tagline": "The future of mobility, available to drive today.",
+    "image_placeholder": "linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%)"
+  },
+  {
+    "id": "byd-atto3-premium",
+    "make": "BYD",
+    "model": "Atto 3",
+    "variant": "Premium",
+    "price_lakh": 33.99,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 440,
+    "ground_clearance_mm": 175,
+    "safety_stars": 5,
+    "use_case_tags": ["premium", "eco_friendly", "highway", "daily_commute"],
+    "pros": [
+      "Blade Battery technology with best-in-class safety",
+      "521km ARAI range makes it a genuine long-distance EV",
+      "Unique guitar-string interior design — truly distinctive"
+    ],
+    "cons": [
+      "BYD service network is still developing in India",
+      "Higher price than comparable Tata/MG EVs"
+    ],
+    "tagline": "Chinese EV mastery with a safety-first battery revolution.",
+    "image_placeholder": "linear-gradient(135deg, #1565C0 0%, #b92b27 100%)"
+  },
+  {
+    "id": "hyundai-creta-e-executive",
+    "make": "Hyundai",
+    "model": "Creta Electric",
+    "variant": "Executive Long Range",
+    "price_lakh": 20.99,
+    "body_type": "suv",
+    "fuel_type": "electric",
+    "transmission": "automatic",
+    "mileage_kmpl": 0,
+    "engine_cc": 0,
+    "seating": 5,
+    "boot_space_l": 433,
+    "ground_clearance_mm": 190,
+    "safety_stars": 3,
+    "use_case_tags": ["city", "eco_friendly", "premium", "family", "highway"],
+    "pros": [
+      "473km ARAI range in a familiar, trusted Creta package",
+      "Vehicle-to-Load (V2L) functionality built in",
+      "Comprehensive ADAS suite with 19 features"
+    ],
+    "cons": [
+      "Premium over ICE Creta requires longer payback period",
+      "AC fast charging takes about 10.5 hours from near-empty"
+    ],
+    "tagline": "Everything you love about Creta, now fully electric.",
+    "image_placeholder": "linear-gradient(135deg, #6a11cb 0%, #2575fc 100%)"
+  },
+  {
+    "id": "maruti-suzuki-s-presso-vxi",
+    "make": "Maruti Suzuki",
+    "model": "S-Presso",
+    "variant": "VXi Plus",
+    "price_lakh": 5.99,
+    "body_type": "hatchback",
+    "fuel_type": "cng",
+    "transmission": "manual",
+    "mileage_kmpl": 31.2,
+    "engine_cc": 998,
+    "seating": 5,
+    "boot_space_l": 240,
+    "ground_clearance_mm": 180,
+    "safety_stars": 2,
+    "use_case_tags": ["city", "daily_commute", "budget_friendly", "eco_friendly"],
+    "pros": [
+      "Exceptional 31.2 km/kg CNG efficiency cuts running costs dramatically",
+      "Tall SUV-inspired stance with 180mm ground clearance",
+      "Most affordable factory-fitted CNG car in India"
+    ],
+    "cons": [
+      "Boot space is heavily compromised with CNG cylinder",
+      "Highway performance is limited with the small engine"
+    ],
+    "tagline": "Micro SUV meets maximum savings — the ultimate city budget car.",
+    "image_placeholder": "linear-gradient(135deg, #f7971e 0%, #ffd200 100%)"
+  }
+]
