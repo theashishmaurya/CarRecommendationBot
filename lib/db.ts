@@ -40,7 +40,7 @@ const globalForDb = global as typeof globalThis & { _db?: Database.Database };
 
 function getDb() {
   if (!globalForDb._db) {
-    globalForDb._db = new Database(path.join(process.cwd(), "chat.db"));
+    globalForDb._db = new Database(path.join("/tmp", "chat.db"));
     globalForDb._db.pragma("journal_mode = WAL");
     globalForDb._db.exec(SCHEMA);
   }
